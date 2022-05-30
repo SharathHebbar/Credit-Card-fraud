@@ -6,8 +6,8 @@
 
 ## Accuracy: 
 
-- XGBClassifier resulted in 99.99995 % accuracy 
-- RandomForestClassifier resulted in 99.99997 % accuracy
+- XGBClassifier resulted in 99.995 % accuracy 
+- RandomForestClassifier resulted in 99.997 % accuracy
 
 ## Confusion Matrix:
 
